@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "node_arrange_plus"
+name = "Node Arrange Plus"
+version = "0.0.1"
+tagline = "Node Tree Arrangement Tools with extra features"
+maintainer = "Community"
+type = "add-on"
+tags = ["Node"]
+blender_version_min = "4.2.0"
+license = ["SPDX:MIT", "SPDX:GPL-2.0-or-later"]
+website = "https://projects.blender.org/extensions/node_arrange_plus"
+copyright = ["2024 Community"]
